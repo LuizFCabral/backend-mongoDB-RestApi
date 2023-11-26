@@ -14,6 +14,7 @@ app.use(
 			"http://127.0.0.1:5500",
 			"http://localhost:4000",
 			"http://localhost:3000",
+			"https://backend-mongo-db-rest-api.vercel.app",
 		], //informe outras URL´s se necessário
 	})
 );
