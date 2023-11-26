@@ -7,8 +7,8 @@ POST {{baseURL}}
 Content-Type: application/json
 
 {
-    "nome": "José Alves Silva",
-    "email": "aluno@fatecitu.edu.br",
+    "nome": "Rapaiz Almeida",
+    "email": "aluno@fatec.com",
     "senha": "Alun0@"
 }
 
@@ -19,7 +19,7 @@ POST {{baseURL}}/login
 Content-Type: application/json
 
 {
-    "email": "aluno@fatecitu.edu.br",
+    "email": "aluno@fatecitu.com",
     "senha": "Alun0@"
 }
 
